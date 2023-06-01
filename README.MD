@@ -97,6 +97,7 @@ export class AppController {
   }
 }
 ```
+## Author: ngthminh.dev@gmail.com
 
 ## License
 
